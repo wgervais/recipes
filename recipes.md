@@ -1,7 +1,7 @@
 ---
 title: "Will's Favorite Recipes"
 author: "Plagiarized From Legion"
-date: "`r format(Sys.time(), '%B %Y')`"
+date: "January 2020"
 output: 
   html_document:
      theme: darkly
@@ -14,9 +14,7 @@ output:
 bibliography: BamLabLib.bib
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+
 
 # Breads
 
